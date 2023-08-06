@@ -1,0 +1,13 @@
+>> Week 12 new feature
+- The new implemented feature is a book rating.
+- The scale is from 0-5 stars
+- A short description of the rating will appear for every star:
+    * 0 stars = blank
+    * 1 star = bad
+    * 2 stars = not good
+    * 3 stars = average
+    * 4 stars = good
+    * 5 stars = Very good
+
+- this feature will also be included when user clicks on the FAB button
+- a card view is updated with the book review rating

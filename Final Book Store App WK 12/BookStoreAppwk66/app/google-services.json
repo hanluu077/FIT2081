@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299146375718",
+    "project_id": "bookstoreappwk8lab",
+    "storage_bucket": "bookstoreappwk8lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299146375718:android:3fdd5806af753ea71f2ce7",
+        "android_client_info": {
+          "package_name": "com.fit2081.bookstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299146375718-md58a2t4gaei5udoo3im92nmkfmc4mh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuiivmT8FMOf8mgnUXG-RxSqpCXJoZ39s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299146375718-md58a2t4gaei5udoo3im92nmkfmc4mh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

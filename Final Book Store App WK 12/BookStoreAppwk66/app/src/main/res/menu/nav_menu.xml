@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_menu_add_book"
+        android:title="Add Book" />
+
+    <item
+        android:id="@+id/nav_menu_remove_last_book"
+        android:title="Remove Last Book" />
+    <item
+        android:id="@+id/nav_menu_remove_all_books"
+        android:title="Remove All Books" />
+    <item
+        android:id="@+id/nav_num_of_items_in_list"
+        android:title="Number Of Items in List" />
+</menu>

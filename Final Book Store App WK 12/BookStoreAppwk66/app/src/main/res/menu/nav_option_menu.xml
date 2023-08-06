@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/options_menu_clear_fields"
+        android:title="Clear Fields" />
+    <item
+        android:id="@+id/options_menu_load_data"
+        android:title="Load Data" />
+    <item
+        android:id="@+id/options_remove_last_book"
+        android:title="Remove Last Book" />
+
+    <item
+        android:id="@+id/options_remove_all_books"
+        android:title="Remove All Books" />
+
+    <item
+        android:id="@+id/options_num_of_items_in_list"
+        android:title="Number Of Items in List" />
+    <item
+        android:id="@+id/options_menu_add_book"
+        android:title="Add Book" />
+    <item
+        android:id="@+id/options_menu_view_all_books"
+        android:title="View All Books" />
+
+
+</menu>
